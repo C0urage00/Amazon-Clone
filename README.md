@@ -1,2 +1,2 @@
 # Amazon-Clone
-Amazon Layout
+Amazon  Webpage Layout
